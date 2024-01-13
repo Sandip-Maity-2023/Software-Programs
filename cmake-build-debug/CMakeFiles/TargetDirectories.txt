@@ -1,0 +1,3 @@
+C:/Users/12san/OneDrive/Documents/GitHub/Software-Programs/cmake-build-debug/CMakeFiles/Software_Programs.dir
+C:/Users/12san/OneDrive/Documents/GitHub/Software-Programs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/12san/OneDrive/Documents/GitHub/Software-Programs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
