@@ -61,6 +61,12 @@ build CMakeFiles/Software_Programs.dir/improve_program_to_show_the_all_possible_
   OBJECT_DIR = CMakeFiles\Software_Programs.dir
   OBJECT_FILE_DIR = CMakeFiles\Software_Programs.dir
 
+build CMakeFiles/Software_Programs.dir/Improve_the_program_to_show_the_all_possible_values_of_target.c.obj: C_COMPILER__Software_Programs_unscanned_Debug C$:/Users/12san/OneDrive/Documents/GitHub/Software-Programs/Improve$ the$ program$ to$ show$ the$ all$ possible$ values$ of$ target.c || cmake_object_order_depends_target_Software_Programs
+  DEP_FILE = CMakeFiles\Software_Programs.dir\Improve_the_program_to_show_the_all_possible_values_of_target.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\Software_Programs.dir
+  OBJECT_FILE_DIR = CMakeFiles\Software_Programs.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Software_Programs
@@ -69,7 +75,7 @@ build CMakeFiles/Software_Programs.dir/improve_program_to_show_the_all_possible_
 #############################################
 # Link the executable Software_Programs.exe
 
-build Software_Programs.exe: C_EXECUTABLE_LINKER__Software_Programs_Debug CMakeFiles/Software_Programs.dir/Leetcode_two_sum_number.c.obj CMakeFiles/Software_Programs.dir/improve_program_to_show_the_all_possible_values_of_target.c.obj
+build Software_Programs.exe: C_EXECUTABLE_LINKER__Software_Programs_Debug CMakeFiles/Software_Programs.dir/Leetcode_two_sum_number.c.obj CMakeFiles/Software_Programs.dir/improve_program_to_show_the_all_possible_values_of_target.c.obj CMakeFiles/Software_Programs.dir/Improve_the_program_to_show_the_all_possible_values_of_target.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Software_Programs.dir

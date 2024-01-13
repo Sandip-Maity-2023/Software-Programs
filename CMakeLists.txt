@@ -10,4 +10,5 @@ add_executable(Software_Programs
         .idea/vcs.xml
         "Leetcode two sum number.c"
         README.md
-        "improve program to show the all possible values of target.c")
+        "improve program to show the all possible values of target.c"
+        "Improve the program to show the all possible values of target.c")
