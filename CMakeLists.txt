@@ -13,4 +13,5 @@ add_executable(Software_Programs
         "improve program to show the all possible values of target.c"
         "Improve the program to show the all possible values of target.c"
         palindrome.c
-        "002 Program to Convert Roman number to integer number .c")
+        "002 Program to Convert Roman number to integer number .c"
+        "003 Program to check palindrome number.c")
