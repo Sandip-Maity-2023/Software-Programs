@@ -31,7 +31,7 @@ int romanToInt(char *s) {
             ['C'] = 100,
             ['D'] = 500,
             ['M'] = 1000,
-    };
+    }
     int res = 0;
     for (int i = 0; s[i]; i++) {
         if (t[s[i]] < t[s[i + 1]])
