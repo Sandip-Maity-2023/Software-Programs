@@ -16,4 +16,5 @@ add_executable(Software_Programs
         "002 Program to Convert Roman number to integer number .c"
         "003 Program to check palindrome number.c"
         "002-(a) improve version program.cpp"
-        "004 Add two numbers Leetcode.c")
+        "004 Add two numbers Leetcode.c"
+        "005 Binary watch of C program.c")
